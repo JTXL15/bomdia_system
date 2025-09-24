@@ -30,7 +30,7 @@ void mostrar_documentacao(){
 }
 
 void mostrar_dica(){
-    printf("Utilize o comando bomdia --h ou bomdia -help para acessar o menu de ajuda!\n\n");
+    printf("Utilize o comando bomdia -h ou bomdia --help para acessar o menu de ajuda!\n\n");
 }
 
 // função que mostra as mensagens de acordo com o código indicado
